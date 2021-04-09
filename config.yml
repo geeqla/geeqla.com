@@ -1,11 +1,10 @@
-baseURL: "https://www.geeqla.com"
+baseURL: "https://geeqla-dev.vercel.app"
 title: Geeqla (dev)
 paginate: 1
 theme: hugo-PaperMod-develop
 enableInlineShortcodes: true
 enableRobotsTXT: true
-
-googleAnalytics: UA-149650101-1
+googleAnalytics: false
 
 minify:
   disableXML: true
