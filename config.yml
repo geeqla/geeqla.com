@@ -7,8 +7,8 @@ enableRobotsTXT: true
 googleAnalytics: false
 
 minify:
-  disableXML: true
-  minifyOutput: true
+  disableXML: false
+  minifyOutput: false
 
 languages:
   en:
