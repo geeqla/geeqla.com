@@ -4,10 +4,11 @@ paginate: 1
 theme: hugo-PaperMod-develop
 enableInlineShortcodes: true
 enableRobotsTXT: true
-googleAnalytics: false
+googleAnalytics: UA-149650101-1
+enableEmoji: true
 
 minify:
-  disableXML: false
+  disableXML: true
   minifyOutput: false
 
 languages:
@@ -106,7 +107,7 @@ languages:
       subtitle: "La mia **[chiave PGP](/geeqla.asc)** è 49FF57C32BD36752"
 
 params:
-  env: production
+  env: development
   # author: ["Me", "You"] # multiple authors
   ShowReadingTime: false
   ShowShareButtons: false
