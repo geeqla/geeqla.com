@@ -2,3 +2,7 @@
 	path = themes/hugo-PaperMod-develop
 	url = git@github.com:geeqla/hugo-PaperMod.git
 	branch = develop
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = git@github.com:geeqla/hugo-PaperMod.git
+	branch = master
