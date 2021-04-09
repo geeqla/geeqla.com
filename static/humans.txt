@@ -1,0 +1,8 @@
+/* TEAM */
+        Human: Daniil Krymov
+        Contact: ping [at] geeqla.com
+        From: London, UK
+
+/* SITE */
+        Last update: 22.01.2020
+        Languages: English, Russian

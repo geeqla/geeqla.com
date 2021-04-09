@@ -1,0 +1,136 @@
+baseURL: "https://www.geeqla.com"
+title: Geeqla
+paginate: 1
+theme: hugo-PaperMod-develop
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+googleAnalytics: UA-149650101-1
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    description: "Homepage of Geeqla"
+    author: Geeqla
+    homeInfoParams:
+      Title: Hey!
+      Content: >
+        My [PGP key](/geeqla.asc) is 49FF57C32BD36752
+    profileMode:
+      enabled: true
+      title: Hey!
+      imageUrl: "/avatar.png"
+      imageTitle: Geeqla
+      imageWidth: 120
+      imageHeight: 120
+      subtitle: "My **[PGP key](/geeqla.asc)** is 49FF57C32BD36752"        
+
+  ru:
+    languageName: "Русский"
+    weight: 2
+    description: "Дом-страница Гиклы"
+    author: Гикла
+    title: Гикла
+    homeInfoParams:
+      Title: Привет!
+      Content: >
+        Мой [ключ PGP](/geeqla.asc) – 49FF57C32BD36752
+    profileMode:
+      enabled: true
+      title: Привет!
+      imageUrl: "/avatar.png"
+      imageTitle: Geeqla
+      imageWidth: 120
+      imageHeight: 120
+      subtitle: "Мой **[ключ PGP](/geeqla.asc)** – 49FF57C32BD36752"
+
+  de:
+    languageName: "Deutsch"
+    weight: 3
+    description: "Homepage von Geeqla"
+    author: Geeqla
+    title: Geeqla
+    homeInfoParams:
+      Title: Hallo!
+      Content: >
+        Mein [PGP-Schlüssel](/geeqla.asc) ist 49FF57C32BD36752
+    profileMode:
+      enabled: true
+      title: Hallo!
+      imageUrl: "/avatar.png"
+      imageTitle: Geeqla
+      imageWidth: 120
+      imageHeight: 120
+      subtitle: "Mein **[PGP-Schlüssel](/geeqla.asc)** ist 49FF57C32BD36752"
+
+  fr:
+    languageName: "Française"
+    weight: 4
+    description: "Page d'accueil de Geeqla"
+    author: Geeqla
+    title: Geeqla
+    homeInfoParams:
+      Title: Salut!
+      Content: >
+        Ma [clé publique PGP](/geeqla.asc) est 49FF57C32BD36752
+    profileMode:
+      enabled: true
+      title: Salut!
+      imageUrl: "/avatar.png"
+      imageTitle: Geeqla
+      imageWidth: 120
+      imageHeight: 120
+      subtitle: "Ma **[clé publique PGP](/geeqla.asc)** est 49FF57C32BD36752"
+
+  it:
+    languageName: "Italiano"
+    weight: 5
+    description: "Homepage di Geeqla"
+    author: Geeqla
+    title: Geeqla
+    homeInfoParams:
+      Title: Ciao!
+      Content: >
+        La mia [chiave PGP](/geeqla.asc) è 49FF57C32BD36752
+    profileMode:
+      enabled: true
+      title: Ciao!
+      imageUrl: "/avatar.png"
+      imageTitle: Geeqla
+      imageWidth: 120
+      imageHeight: 120
+      subtitle: "La mia **[chiave PGP](/geeqla.asc)** è 49FF57C32BD36752"
+
+params:
+  env: production
+  # author: ["Me", "You"] # multiple authors
+  ShowReadingTime: false
+  ShowShareButtons: false
+  displayFullLangName: false
+  # images: ""
+  # assets:
+  #   favicon: '<path / external url>'
+
+  socialIcons:
+    - name: github
+      url: "https://www.github.com/geeqla"
+    - name: telegram
+      url: "https://t.me/geeqla"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/geeqla"
+    - name: youtube
+      url: "https://www.youtube.com/geeqla"
+    - name: keybase
+      url: "https://keybase.io/geeqla"
+  # custom params
+  hideCredits: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series

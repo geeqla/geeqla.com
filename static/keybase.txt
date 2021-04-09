@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/geeqla
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://geeqla.com
+  * I am geeqla (https://keybase.io/geeqla) on keybase.
+  * I have a public key with fingerprint AE1B C8A0 6F88 9526 33F7  F3D7 49FF 57C3 2BD3 6752
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a857b1ea6a1e9838386e88056b8fa9967af82b096489063cd1a9911951a21d730a",
+      "fingerprint": "ae1bc8a06f88952633f7f3d749ff57c32bd36752",
+      "host": "keybase.io",
+      "key_id": "49ff57c32bd36752",
+      "kid": "0101a857b1ea6a1e9838386e88056b8fa9967af82b096489063cd1a9911951a21d730a",
+      "uid": "282c6a7e7d5d418b941c2c6586da6f19",
+      "username": "geeqla"
+    },
+    "merkle_root": {
+      "ctime": 1565459317,
+      "hash_meta": "3845432b9e22ff079d753e4bc7d60383e088130571958b049c8a88c3243eaa95",
+      "seqno": 5985677
+    },
+    "revoke": {
+      "sig_ids": [
+        "3d488fe7aa57244fa2109766d590bc21245ec339126a621410027d455dfa2bd20f"
+      ]
+    },
+    "service": {
+      "hostname": "geeqla.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1565459333,
+  "expire_in": 157680000,
+  "prev": "a63cd3d1997c21528c2d22db1c2e7981c554588f0ecf4cdcb67ac79f228ea0d9",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU31MVlUcfvlKRFPTlM2PNa5ICwzv17nnnFfLaqhDRwphmkov995zLtyA98K9
+l9cMX6nQfHXaMMcaaU5rYqBB5RczJVgOv0IMl1Cak9K2nMjUlpkmnctyrdaf3fvH
+3f3t+T2/53l+51Q/HOOLj8ocWPRl2tmCnKhTP2u+vPkxGys4zSIrOH8FV0QHP7SY
+UMcNFJmE83O8wAsqAlATqKqoAsVIYq9CEeKBoiFDxViBqoFEjceKjDCvSDoRWFUQ
+MBBUUSBQ4lVuKmeYwQJql9pm0GW0KhU0Ham8YiCEgahIkgENiUAZGwaAuiRqRFIg
+EFljoeV4HUycpjo03bRYjf0EBuX9B/5/1l0+SCciUVdUSCEBRBaQhmVBZxWAFKIq
+hoA9oEPtoFpCGbqA0rJilQtP5UqoXVRMA7ZluV60umt6AAEoQAZYEiCzpzqFgRLq
+qqxPQjKQmRdMRdEweIgJBBKVNR0ShWf6KY+QIPEAMo1I42XMIkSIuZclqqoYMBUO
+LQtanB9gBBQImQKbhqwi6g13zAIWmsP5l3ISkREyWm0KVRVAUZYN5pjHUFEIwLym
+i4IoA6pLEhZERVVEQRZ4XoREBoAwqEZE3uDywt44O2Tqg/Tenv7hP123SpiiUtty
+Ld0qZvVC1y11/F4u7opSD7icaoG/KAKaGSTsjLCOELUd0wqynBjyX5FJ0lSOvlpq
+2jRgeggAFcSzx5tDQ97J8hYpEQFjyGwAEekiEUWisX1RiJGgA8bDzPNUN2Sd6Bo7
+BjrEhigiqvIE/50hm+SqBYySBRdU3XKbcuGEddFSrC8q3jdpXFJs44Tj261ITYp0
++1b3g2sVF+3dKV/C0FEPKk01Iweyc8GimHmbQW/83qSJe+JvbKFL68yM3lZLSl0y
+NyO2PtCdIEC/ll61qd/JTJ4bavyqaN2elIaYvjtNzdPD2eR24pzYLc5L/vKjOfU3
+krOXPL0yf/RwVZnZE3wmV0uc0tYx9lrnmObvtuWLC8fP3NFx4UT/ic53j017Yfv4
+D/LH7Fp2ZaQddylS0/n6gotjAw1ru2LSZl9NuPDDlZyO/obr52evf3Za7r3PZpF5
+E4UxifWXN2RfPV01EB13vCtinFrenLHy8arfs7A7I9Y4/NoZPuVg25rKm0kv3gw/
+Gpf1dUsODhvnDtk1pRvyLkaub0teMOLO6tAqFJFWFffQs7sLP35jUm1f+xd7Zw1P
+v5ae3ZD84Ykhw1LczdJ5qxe1H5vT+NHRup7+xXsut7x8nQhX+3Y/cmlnXff5Gfsj
+3+T+MeE3PDN/n/15UupAxUOzbx0Yuv7ggSec1Ltt51YfOZlXmW22VY+ru9s8pfZQ
+xsLJ80dl/eievpVXvWzSrvjRm8u3VhcMrWytre14fmddb/tAJe0r8eGuOF/jkelv
+ZXUPa1GaU8dF611vlhX18olr9w3P3fHk4eLj20bd//Zwxi/7Assz3+uJpC07884n
+Pz0m18R1vFJvNO3/virz7oid58INrSc/fepecvvCGaFN9+NR+O2WpsX5a7YMuSM2
+LFrVHJN7pSLrWFpq9PtlUc91pv+6dfL8PwE=
+=zuKh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/geeqla
+
+==================================================================
