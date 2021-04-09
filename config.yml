@@ -1,5 +1,5 @@
 baseURL: "https://www.geeqla.com"
-title: Geeqla
+title: Geeqla (dev)
 paginate: 1
 theme: hugo-PaperMod-develop
 enableInlineShortcodes: true
