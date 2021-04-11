@@ -13,7 +13,8 @@ minify:
 
 languages:
   en:
-    languageName: "English"
+    languageName: ":gb:"
+    languageNameFull: "English"
     weight: 1
     description: "Homepage of Geeqla"
     author: Geeqla
@@ -31,7 +32,8 @@ languages:
       subtitle: "My **[PGP key](/geeqla.asc)** is 49FF57C32BD36752"        
 
   ru:
-    languageName: "Русский"
+    languageName: ":ru:"
+    languageNameFull: "Русский"
     weight: 2
     description: "Дом-страница Гиклы"
     author: Гикла
@@ -50,7 +52,8 @@ languages:
       subtitle: "Мой **[ключ PGP](/geeqla.asc)** – 49FF57C32BD36752"
 
   de:
-    languageName: "Deutsch"
+    languageName: ":de:"
+    languageNameFull: "Deutsch"
     weight: 3
     description: "Homepage von Geeqla"
     author: Geeqla
@@ -69,7 +72,8 @@ languages:
       subtitle: "Mein **[PGP-Schlüssel](/geeqla.asc)** ist 49FF57C32BD36752"
 
   fr:
-    languageName: "Française"
+    languageName: ":fr:"
+    languageNameFull: "Française"
     weight: 4
     description: "Page d'accueil de Geeqla"
     author: Geeqla
@@ -88,7 +92,8 @@ languages:
       subtitle: "Ma **[clé publique PGP](/geeqla.asc)** est 49FF57C32BD36752"
 
   it:
-    languageName: "Italiano"
+    languageName: ":it:"
+    languageNameFull: "Italiano"
     weight: 5
     description: "Homepage di Geeqla"
     author: Geeqla
@@ -111,7 +116,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   ShowReadingTime: false
   ShowShareButtons: false
-  displayFullLangName: false
+  displayFullLangName: true
   # images: ""
   # assets:
   #   favicon: '<path / external url>'
