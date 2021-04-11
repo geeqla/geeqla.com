@@ -1,5 +1,5 @@
 baseURL: "https://geeqla-dev.vercel.app"
-title: Geeqla (dev)
+title: Geeqla (igr)
 paginate: 1
 theme: hugo-PaperMod-develop
 enableInlineShortcodes: true
