@@ -1,4 +1,4 @@
 [submodule "themes/PaperMod-develop"]
 	path = themes/PaperMod-develop
-	url = git@github.com:geeqla/hugo-PaperMod.git
+	url = https://github.com/geeqla/hugo-PaperMod
 	branch = develop
