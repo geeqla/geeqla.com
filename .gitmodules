@@ -1,4 +1,4 @@
-[submodule "themes/hugo-PaperMod"]
-	path = themes/hugo-PaperMod
-	url = https://github.com/geeqla/hugo-PaperMod.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/geeqla/hugo-PaperMod
 	branch = master
