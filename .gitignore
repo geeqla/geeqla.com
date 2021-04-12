@@ -24,4 +24,5 @@ _testmain.go
 
 /public
 /themes/hugo-PaperMod
+/themes/PaperMod
 .DS_Store
