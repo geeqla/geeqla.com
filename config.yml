@@ -14,7 +14,7 @@ minify:
 languages:
   en:
     languageName: ":gb:"
-    languageNameFull: "English"
+    languageAltTitle: "English" # added by Geeqla
     weight: 1
     description: "Homepage of Geeqla"
     author: Geeqla
@@ -33,7 +33,7 @@ languages:
 
   ru:
     languageName: ":ru:"
-    languageNameFull: "Русский"
+    languageAltTitle: "Русский" # added by Geeqla
     weight: 2
     description: "Дом-страница Гиклы"
     author: Гикла
@@ -53,7 +53,7 @@ languages:
 
   de:
     languageName: ":de:"
-    languageNameFull: "Deutsch"
+    languageAltTitle: "Deutsch" # added by Geeqla
     weight: 3
     description: "Homepage von Geeqla"
     author: Geeqla
@@ -73,7 +73,7 @@ languages:
 
   fr:
     languageName: ":fr:"
-    languageNameFull: "Française"
+    languageAltTitle: "Française" # added by Geeqla
     weight: 4
     description: "Page d'accueil de Geeqla"
     author: Geeqla
@@ -93,7 +93,7 @@ languages:
 
   it:
     languageName: ":it:"
-    languageNameFull: "Italiano"
+    languageAltTitle: "Italiano" # added by Geeqla
     weight: 5
     description: "Homepage di Geeqla"
     author: Geeqla
@@ -113,13 +113,10 @@ languages:
 
 params:
   env: production
-  # author: ["Me", "You"] # multiple authors
   ShowReadingTime: false
   ShowShareButtons: false
   displayFullLangName: true
-  # images: ""
-  # assets:
-  #   favicon: '<path / external url>'
+  hideCredits: true # added by Geeqla
 
   socialIcons:
     - name: github
@@ -132,8 +129,6 @@ params:
       url: "https://www.youtube.com/geeqla"
     - name: keybase
       url: "https://keybase.io/geeqla"
-  # custom params
-  hideCredits: true
 
 taxonomies:
   category: categories
