@@ -33,7 +33,7 @@ languages:
 
   ru:
     languageName: ":ru:"
-    languageAltTitle: "Russian" # added by Geeqla
+    languageAltTitle: "Русский" # added by Geeqla
     weight: 2
     description: "Дом-страница Гиклы"
     author: Гикла
