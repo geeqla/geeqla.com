@@ -1,8 +1,0 @@
-{
-    "routes": [{
-        "src": "/.*",
-        "headers": {
-            "cache-control": "s-maxage=0"
-        }
-    }]
-}
