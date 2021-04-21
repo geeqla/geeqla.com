@@ -1,4 +1,4 @@
-baseURL: "https://geeqla-dev.vercel.app"
+baseURL: "https://develop.geeqla.pages.dev"
 title: Geeqla (dev)
 paginate: 1
 theme: PaperMod-develop
