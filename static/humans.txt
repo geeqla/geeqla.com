@@ -1,8 +1,8 @@
 /* TEAM */
         Human: Daniil Krymov
-        Contact: ping [at] geeqla.com
-        From: London, UK
+        Contact: geeqla@oxon.org
+        From: London, GB
 
 /* SITE */
-        Last update: 22.01.2020
-        Languages: English, Russian
+        Last update: 30.04.2021
+        Languages: English

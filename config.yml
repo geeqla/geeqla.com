@@ -16,8 +16,11 @@ languages:
     languageName: ":gb:"
     languageAltTitle: "English" # added by Geeqla
     weight: 1
-    description: "Homepage of Geeqla"
+    description: "House of Geeqla"
     author: Geeqla
+    title: House of Geeqla
+    label:
+      text: Geeqla
     homeInfoParams:
       Title: Hey!
       Content: >
@@ -35,9 +38,11 @@ languages:
     languageName: ":ru:"
     languageAltTitle: "Русский" # added by Geeqla
     weight: 2
-    description: "Дом-страница Гиклы"
+    description: "Гикла ин да хаус"
     author: Гикла
-    title: Гикла
+    title: Гикла ин да хаус
+    label:
+      text: Гикла
     homeInfoParams:
       Title: Привет!
       Content: >
@@ -55,9 +60,11 @@ languages:
     languageName: ":de:"
     languageAltTitle: "Deutsch" # added by Geeqla
     weight: 3
-    description: "Homepage von Geeqla"
+    description: "Das Haus von Geeqla"
     author: Geeqla
-    title: Geeqla
+    title: Das Haus von Geeqla
+    label:
+      text: Geeqla
     homeInfoParams:
       Title: Hallo!
       Content: >
@@ -75,9 +82,11 @@ languages:
     languageName: ":fr:"
     languageAltTitle: "Française" # added by Geeqla
     weight: 4
-    description: "Page d'accueil de Geeqla"
+    description: "La maison de Geeqla"
     author: Geeqla
-    title: Geeqla
+    title: La maison de Geeqla
+    label:
+      text: Geeqla
     homeInfoParams:
       Title: Salut!
       Content: >
@@ -90,26 +99,6 @@ languages:
       imageWidth: 120
       imageHeight: 120
       subtitle: "Ma **[clé publique PGP](/geeqla.asc)** est 49FF57C32BD36752"
-
-  it:
-    languageName: ":it:"
-    languageAltTitle: "Italiano" # added by Geeqla
-    weight: 5
-    description: "Homepage di Geeqla"
-    author: Geeqla
-    title: Geeqla
-    homeInfoParams:
-      Title: Ciao!
-      Content: >
-        La mia [chiave PGP](/geeqla.asc) è 49FF57C32BD36752
-    profileMode:
-      enabled: true
-      title: Ciao!
-      imageUrl: "/avatar.png"
-      imageTitle: Geeqla
-      imageWidth: 120
-      imageHeight: 120
-      subtitle: "La mia **[chiave PGP](/geeqla.asc)** è 49FF57C32BD36752"
 
 params:
   env: production
