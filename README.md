@@ -1,4 +1,6 @@
-Hey, I am Daniil.
+### Hi there! 👋
+
+I'm Daniil.
 
 - 🌱 I’m currently learning TypeScript, React, GraphQL & Electron
 - 👯 I’m looking to collaborate on [generator-base-express](https://github.com/geeqla/generator-base-express)
