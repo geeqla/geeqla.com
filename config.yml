@@ -38,9 +38,9 @@ languages:
     languageName: ":ru:"
     languageAltTitle: "Русский" # added by Geeqla
     weight: 2
-    description: "Гикла ин да хаус"
+    description: "Дом Гикла"
     author: Гикла
-    title: Гикла ин да хаус
+    title: Дом Гикла
     label:
       text: Гикла
     homeInfoParams:
@@ -102,22 +102,25 @@ languages:
 
 params:
   env: production
+  defaultTheme: auto
+  # disableThemeToggle: true
   ShowReadingTime: false
   ShowShareButtons: false
   displayFullLangName: true
+  launchYear: 2017 # added by Geeqla
   hideCredits: true # added by Geeqla
 
   socialIcons:
     - name: github
       url: "https://www.github.com/geeqla"
-    - name: telegram
-      url: "https://t.me/geeqla"
     - name: linkedin
       url: "https://www.linkedin.com/in/geeqla"
+    - name: keybase
+      url: "https://www.keybase.io/geeqla"
     - name: youtube
       url: "https://www.youtube.com/geeqla"
-    - name: keybase
-      url: "https://keybase.io/geeqla"
+    - name: instagram
+      url: "https://www.instagram.com/geeqla"
 
 taxonomies:
   category: categories
