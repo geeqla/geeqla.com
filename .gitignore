@@ -25,3 +25,4 @@ _testmain.go
 /public
 /themes/PaperMod-develop
 .DS_Store
+.hugo_build.lock
