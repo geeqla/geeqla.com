@@ -28,7 +28,7 @@ languages:
     profileMode:
       enabled: true
       title: Hey!
-      imageUrl: "/avatar.png"
+      imageUrl: "/geeqla.png"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -50,7 +50,7 @@ languages:
     profileMode:
       enabled: true
       title: Привет!
-      imageUrl: "/avatar.png"
+      imageUrl: "/geeqla.png"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -72,7 +72,7 @@ languages:
     profileMode:
       enabled: true
       title: Hallo!
-      imageUrl: "/avatar.png"
+      imageUrl: "/geeqla.png"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -94,7 +94,7 @@ languages:
     profileMode:
       enabled: true
       title: Salut!
-      imageUrl: "/avatar.png"
+      imageUrl: "/geeqla.png"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -107,7 +107,7 @@ params:
   ShowReadingTime: false
   ShowShareButtons: false
   displayFullLangName: true
-  launchYear: 2017 # added by Geeqla
+  launchYear: 2016 # added by Geeqla
   hideCredits: true # added by Geeqla
 
   socialIcons:
@@ -117,10 +117,14 @@ params:
       url: "https://www.linkedin.com/in/geeqla"
     - name: keybase
       url: "https://www.keybase.io/geeqla"
-    - name: youtube
-      url: "https://www.youtube.com/geeqla"
+    - name: twitter
+      url: "https://www.twitter.com/geeqla"
+    - name: telegram
+      url: "https://t.me/geeqla"
     - name: instagram
       url: "https://www.instagram.com/geeqla"
+    - name: youtube
+      url: "https://www.youtube.com/geeqla"
 
 taxonomies:
   category: categories
