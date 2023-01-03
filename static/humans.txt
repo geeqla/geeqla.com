@@ -1,8 +1,8 @@
 /* TEAM */
         Human: Daniil Krymov
         Contact: geeqla@oxon.org
-        From: London, GB
+        From: London, United Kingdom
 
 /* SITE */
-        Last update: 30.04.2021
+        Last update: 03.01.2023
         Languages: English
