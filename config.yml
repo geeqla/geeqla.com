@@ -8,8 +8,13 @@ googleAnalytics: UA-149650101-1
 enableEmoji: true
 
 minify:
-  disableXML: true
-  minifyOutput: true
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: false
 
 languages:
   en:
