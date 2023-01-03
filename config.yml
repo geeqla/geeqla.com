@@ -5,7 +5,7 @@ theme: PaperMod
 disableHugoGeneratorInject: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
-googleAnalytics: UA-149650101-1
+googleAnalytics: G-3DYJCT1PQ7
 enableEmoji: true
 
 minify:
