@@ -2,19 +2,23 @@ baseURL: "https://www.geeqla.com"
 title: Geeqla
 paginate: 1
 theme: PaperMod
+disableHugoGeneratorInject: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
 googleAnalytics: UA-149650101-1
 enableEmoji: true
 
 minify:
-  disableCSS: false
-  disableHTML: false
-  disableJS: false
-  disableJSON: false
-  disableSVG: false
-  disableXML: false
-  minifyOutput: false
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepComments: false
+      keepConditionalComments: false
+      keepDefaultAttrVals: true
+      keepDocumentTags: true
+      keepEndTags: true
+      keepQuotes: true
+      keepWhitespace: false
 
 languages:
   en:
