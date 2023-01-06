@@ -33,7 +33,7 @@ languages:
     homeInfoParams:
       Title: Hey!
       Content: >
-        My [PGP key](/geeqla.asc) is 49FF57C32BD36752
+        My [PGP key](https://geeq.la/@) is 49FF57C32BD36752
     profileMode:
       enabled: true
       title: Hey!
@@ -41,7 +41,7 @@ languages:
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
-      subtitle: "My **[PGP key](/geeqla.asc)** is 49FF57C32BD36752"        
+      subtitle: "My **[PGP key](https://geeq.la/@)** is 49FF57C32BD36752"        
 
   ru:
     languageName: ":ru:"
@@ -55,7 +55,7 @@ languages:
     homeInfoParams:
       Title: Привет!
       Content: >
-        Мой [ключ PGP](/geeqla.asc) – 49FF57C32BD36752
+        Мой [ключ PGP](https://geeq.la/@) – 49FF57C32BD36752
     profileMode:
       enabled: true
       title: Привет!
@@ -63,7 +63,7 @@ languages:
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
-      subtitle: "Мой **[ключ PGP](/geeqla.asc)** – 49FF57C32BD36752"
+      subtitle: "Мой **[ключ PGP](https://geeq.la/@)** – 49FF57C32BD36752"
 
   de:
     languageName: ":de:"
@@ -77,7 +77,7 @@ languages:
     homeInfoParams:
       Title: Hallo!
       Content: >
-        Mein [PGP-Schlüssel](/geeqla.asc) ist 49FF57C32BD36752
+        Mein [PGP-Schlüssel](https://geeq.la/@) ist 49FF57C32BD36752
     profileMode:
       enabled: true
       title: Hallo!
@@ -85,7 +85,7 @@ languages:
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
-      subtitle: "Mein **[PGP-Schlüssel](/geeqla.asc)** ist 49FF57C32BD36752"
+      subtitle: "Mein **[PGP-Schlüssel](https://geeq.la/@)** ist 49FF57C32BD36752"
 
   fr:
     languageName: ":fr:"
@@ -99,7 +99,7 @@ languages:
     homeInfoParams:
       Title: Salut!
       Content: >
-        Ma [clé publique PGP](/geeqla.asc) est 49FF57C32BD36752
+        Ma [clé publique PGP](https://geeq.la/@) est 49FF57C32BD36752
     profileMode:
       enabled: true
       title: Salut!
@@ -107,7 +107,7 @@ languages:
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
-      subtitle: "Ma **[clé publique PGP](/geeqla.asc)** est 49FF57C32BD36752"
+      subtitle: "Ma **[clé publique PGP](https://geeq.la/@)** est 49FF57C32BD36752"
 
 params:
   env: production
