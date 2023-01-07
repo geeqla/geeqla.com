@@ -7,6 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 googleAnalytics: G-3DYJCT1PQ7
 enableEmoji: true
+defaultcontentlanguage: ru
 
 minify:
   minifyOutput: true
