@@ -128,9 +128,9 @@ params:
     - name: keybase
       url: "https://www.keybase.io/geeqla"
     - name: twitter
-      url: "https://www.twitter.com/geeqla"
+      url: "https://www.twitter.com/geeqla_ru"
     - name: telegram
-      url: "https://t.me/geeqla"
+      url: "https://t.me/geeqla_ru"
     - name: instagram
       url: "https://www.instagram.com/geeqla"
     - name: youtube
