@@ -1,8 +1,8 @@
-/* TEAM */
-        Human: Daniil Krymov
-        Contact: geeqla@oxon.org
-        From: London, United Kingdom
+/* КОМАНДА */
+        Человек: Даниил Крымов
+        Контакт: geeqla@oxon.org
+        Из: Лондон, Великобритания
 
-/* SITE */
-        Last update: 03.01.2023
-        Languages: English
+/* САЙТ */
+        Последнее обновление: 07.01.2023
+        Языки: Русский, English
