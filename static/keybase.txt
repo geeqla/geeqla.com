@@ -4,7 +4,7 @@ https://keybase.io/geeqla
 
 I hereby claim:
 
-  * I am an admin of https://geeqla.com
+  * I am an admin of https://geeqla.ru
   * I am geeqla (https://keybase.io/geeqla) on keybase.
   * I have a public key with fingerprint AE1B C8A0 6F88 9526 33F7  F3D7 49FF 57C3 2BD3 6752
 
@@ -21,27 +21,17 @@ To do so, I am signing this object:
       "uid": "282c6a7e7d5d418b941c2c6586da6f19",
       "username": "geeqla"
     },
-    "merkle_root": {
-      "ctime": 1565459317,
-      "hash_meta": "3845432b9e22ff079d753e4bc7d60383e088130571958b049c8a88c3243eaa95",
-      "seqno": 5985677
-    },
-    "revoke": {
-      "sig_ids": [
-        "3d488fe7aa57244fa2109766d590bc21245ec339126a621410027d455dfa2bd20f"
-      ]
-    },
     "service": {
-      "hostname": "geeqla.com",
+      "hostname": "geeqla.ru",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1565459333,
+  "ctime": 1673120280,
   "expire_in": 157680000,
-  "prev": "a63cd3d1997c21528c2d22db1c2e7981c554588f0ecf4cdcb67ac79f228ea0d9",
-  "seqno": 3,
+  "prev": "77d0e8351097622145ff1427331938af82c773ca2376897ea6171ff24c907d66",
+  "seqno": 18,
   "tag": "signature"
 }
 
@@ -49,32 +39,29 @@ which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owGtU31MVlUcfvlKRFPTlM2PNa5ICwzv17nnnFfLaqhDRwphmkov995zLtyA98K9
-l9cMX6nQfHXaMMcaaU5rYqBB5RczJVgOv0IMl1Cak9K2nMjUlpkmnctyrdaf3fvH
-3f3t+T2/53l+51Q/HOOLj8ocWPRl2tmCnKhTP2u+vPkxGys4zSIrOH8FV0QHP7SY
-UMcNFJmE83O8wAsqAlATqKqoAsVIYq9CEeKBoiFDxViBqoFEjceKjDCvSDoRWFUQ
-MBBUUSBQ4lVuKmeYwQJql9pm0GW0KhU0Ham8YiCEgahIkgENiUAZGwaAuiRqRFIg
-EFljoeV4HUycpjo03bRYjf0EBuX9B/5/1l0+SCciUVdUSCEBRBaQhmVBZxWAFKIq
-hoA9oEPtoFpCGbqA0rJilQtP5UqoXVRMA7ZluV60umt6AAEoQAZYEiCzpzqFgRLq
-qqxPQjKQmRdMRdEweIgJBBKVNR0ShWf6KY+QIPEAMo1I42XMIkSIuZclqqoYMBUO
-LQtanB9gBBQImQKbhqwi6g13zAIWmsP5l3ISkREyWm0KVRVAUZYN5pjHUFEIwLym
-i4IoA6pLEhZERVVEQRZ4XoREBoAwqEZE3uDywt44O2Tqg/Tenv7hP123SpiiUtty
-Ld0qZvVC1y11/F4u7opSD7icaoG/KAKaGSTsjLCOELUd0wqynBjyX5FJ0lSOvlpq
-2jRgeggAFcSzx5tDQ97J8hYpEQFjyGwAEekiEUWisX1RiJGgA8bDzPNUN2Sd6Bo7
-BjrEhigiqvIE/50hm+SqBYySBRdU3XKbcuGEddFSrC8q3jdpXFJs44Tj261ITYp0
-+1b3g2sVF+3dKV/C0FEPKk01Iweyc8GimHmbQW/83qSJe+JvbKFL68yM3lZLSl0y
-NyO2PtCdIEC/ll61qd/JTJ4bavyqaN2elIaYvjtNzdPD2eR24pzYLc5L/vKjOfU3
-krOXPL0yf/RwVZnZE3wmV0uc0tYx9lrnmObvtuWLC8fP3NFx4UT/ic53j017Yfv4
-D/LH7Fp2ZaQddylS0/n6gotjAw1ru2LSZl9NuPDDlZyO/obr52evf3Za7r3PZpF5
-E4UxifWXN2RfPV01EB13vCtinFrenLHy8arfs7A7I9Y4/NoZPuVg25rKm0kv3gw/
-Gpf1dUsODhvnDtk1pRvyLkaub0teMOLO6tAqFJFWFffQs7sLP35jUm1f+xd7Zw1P
-v5ae3ZD84Ykhw1LczdJ5qxe1H5vT+NHRup7+xXsut7x8nQhX+3Y/cmlnXff5Gfsj
-3+T+MeE3PDN/n/15UupAxUOzbx0Yuv7ggSec1Ltt51YfOZlXmW22VY+ru9s8pfZQ
-xsLJ80dl/eievpVXvWzSrvjRm8u3VhcMrWytre14fmddb/tAJe0r8eGuOF/jkelv
-ZXUPa1GaU8dF611vlhX18olr9w3P3fHk4eLj20bd//Zwxi/7Assz3+uJpC07884n
-Pz0m18R1vFJvNO3/virz7oid58INrSc/fepecvvCGaFN9+NR+O2WpsX5a7YMuSM2
-LFrVHJN7pSLrWFpq9PtlUc91pv+6dfL8PwE=
-=zuKh
+owGtUmtMFFcYXQQtUhBslAgUW0YqNm7WuTM7r+0jBSJKKtVIqSGRLrMzd5Yp6+4y
+uywvVwkt0IIN2IiUVsBSqIYSSqi42UJbU3/w1FqWshJASjRS1pRKwWIqQmdI/dGk
+P3vvj5t77jnnft/JVx3irwr0S149cnW3x3jYb3DWoOLcA0QRYrDwBYiuCMmGawc0
+8dBm12eLPKJDUIACliYoA4AsyQLI0Li8SUjTKEEaaIFlGJJiBRozoAyppRmUxDke
+yCgADAFYDPAUjrKIGhFEsxFKVkk022VbFgIDR7MoKdA0Q2AkjguUgPOUlhEEguJw
+zMDjJEVgsjDLYlMUcnEG1gY1okXG5It+rbz/4P/Pdeeu2WE0xpEsBSme4LWANjBa
+wMkIQZM8SwqAUYg2KJnZY1BmGyHMMbGIU43ImEPkoBKr0se/3jVSriyzSha7hbOY
+ZDjLbrfadIrMXmBVeHnQoP/HQW8QzbwcoaxwQMkmWsyIDshMzi4qloCkcIChGI2q
+EZhvFSWoFxUGQZE0Ki/lH+iQLSmKRyGNEwBlqDdJDANaQhCAFqNwHDA4rSTCURTO
+sRguSxlKTg9QQBAwLcegFE+SiNJUjtkim9NyoaxRNrWJRjNrz5Ug4gz6YB0eoPIL
+VEWHxwS0R/Wdt7xfsxNfWvA+mbv165ShUwVtDHuC8N4wVQmWEnrymR/uHGK3d4af
+bmt9UHdwRNPvapp+w/+Guvw4t+K56lo8Ge8sz054kFT8dFN9icNXWjWkmZ6+vi9j
+bv5+YpKz8w/XxfyG2sIfr6xM9tyNiJppHFHX37yUcXx6mmweHaN19CWiMsazsryY
+OHPD7XgcGbPeV7B8K3iraV+N67kDqUZkr3S0paitOXIAzqorbqm+m8r8/vWqRyCi
+JaoqacOZRt34anCDvuOV9ND8odpF609TCeoUjWqDL9ldcobJ85vY5qk8+rC7avCT
+UOvZyBPDTNDZ3tTJ2MTWaqfKF/iwxnd/uLmjrSjigl8x6A5Lq9txYMsWLDvVXZPx
+TVNdcHp/coBn97sB2xpgrTfkz/2j+4fnT289tfHaYE7fR72+7W/3x5WnrnxbSlUt
+nAIvdxcO3Xuherb2Y29F5GqZ7zWNqy/v9l9zX6b1Tf08+eqntc/OdBVe740nrrX/
+5nLdLhjzxKfF+7fz8f3nf/16vrGY74pq+EzYMdf+VfKyliebWjdJy6qd0Z/3BNN7
+Xoz2zxyPnViHuJvfe6oiIaRl4HJHWZZouit2FkZt/j3/wjvPhz46kv7FOW9phfrE
+vT0hpe154WWOWOOHhyec0sU7u1KW5ifqsyOa4Qh5JWl0U1DYYzDWcyzuZuHCUtgv
+5xwvdc0fjNt12TspvYUaD3kqTe7NmXXjfwM=
+=VS7D
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
