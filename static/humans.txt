@@ -4,5 +4,5 @@
         From: London, United Kingdom
 
 /* SITE */
-        Last update: 03.01.2023
-        Languages: English
+        Last update: 07.01.2023
+        Languages: English, Русский
