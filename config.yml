@@ -25,7 +25,7 @@ languages:
     languageName: ":gb:"
     languageAltTitle: "English" # added by Geeqla
     weight: 1
-    description: "House of Geeqla on the Internet."
+    description: "House of Geeqla on the Internet"
     author: Geeqla
     title: House of Geeqla
     label:
@@ -47,7 +47,7 @@ languages:
     languageName: ":ru:"
     languageAltTitle: "Русский" # added by Geeqla
     weight: 2
-    description: "Дом Гикла в сети Интернет."
+    description: "Дом Гикла в сети Интернет"
     author: Гикла
     title: Дом Гикла
     label:
@@ -69,7 +69,7 @@ languages:
     languageName: ":de:"
     languageAltTitle: "Deutsch" # added by Geeqla
     weight: 3
-    description: "Das Haus von Geeqla im Internet."
+    description: "Das Haus von Geeqla im Internet"
     author: Geeqla
     title: Das Haus von Geeqla
     label:
@@ -91,7 +91,7 @@ languages:
     languageName: ":fr:"
     languageAltTitle: "Française" # added by Geeqla
     weight: 4
-    description: "La maison de Geeqla sur le Web."
+    description: "La maison de Geeqla sur le Web"
     author: Geeqla
     title: La maison de Geeqla
     label:
