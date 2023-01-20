@@ -119,6 +119,7 @@ params:
   displayFullLangName: true
   launchYear: 2016 # added by Geeqla
   hideCredits: true # added by Geeqla
+  yandexMetrika: 92131351 # added by Geeqla
   images: ["website-cover.png"]
   socialIcons:
     - name: github
