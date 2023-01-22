@@ -113,7 +113,6 @@ languages:
       subtitle: "Ma **[clé publique PGP](https://geeq.la/@)** est 49FF57C32BD36752"
 
 params:
-  env: production
   defaultTheme: auto
   # disableThemeToggle: true
   ShowReadingTime: false
