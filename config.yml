@@ -121,7 +121,7 @@ params:
   launchYear: 2016 # added by Geeqla
   hideCredits: true # added by Geeqla
   yandexMetrika: 92131351 # added by Geeqla
-  images: ["website-cover.png"]
+  images: ["website-cover.jpg"]
   socialIcons:
     - name: github
       url: "https://www.github.com/geeqla"
@@ -139,6 +139,10 @@ params:
       url: "https://www.instagram.com/geeqla"
     - name: youtube
       url: "https://www.youtube.com/geeqla"
+  assets:
+    disableHLJS: true # disables loading of highlight.js
+    theme_color: "#1d1e20"
+    msapplication_TileColor: "#1d1e20"
 
 taxonomies:
   category: categories
