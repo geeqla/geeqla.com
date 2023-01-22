@@ -7,6 +7,8 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 googleAnalytics: G-3DYJCT1PQ7
 enableEmoji: true
+disableKinds: ['taxonomy'] # overrules and disables taxonomies at the bottom
+ignoreErrors: ["error-disable-taxonomy"] # overrules and disables taxonomies at the bottom
 
 minify:
   minifyOutput: true
