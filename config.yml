@@ -137,6 +137,10 @@ params:
       url: "https://www.instagram.com/geeqla"
     - name: youtube
       url: "https://www.youtube.com/geeqla"
+  assets:
+    disableHLJS: true # disables highlight.js loading
+    theme_color: "#1d1e20"
+    msapplication_TileColor: "#1d1e20"
 
 taxonomies:
   category: categories
