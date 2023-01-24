@@ -141,8 +141,8 @@ params:
       url: "https://www.youtube.com/geeqla"
   assets:
     disableHLJS: true # disables loading of highlight.js
-    theme_color: "#1d1e20"
-    msapplication_TileColor: "#1d1e20"
+    theme_color: "#000000"
+    msapplication_TileColor: "#000000"
 
 taxonomies:
   category: categories
