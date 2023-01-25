@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 googleAnalytics: G-3DYJCT1PQ7
 enableEmoji: true
-disableKinds: ['taxonomy'] # overrules and disables taxonomies at the bottom
+disableKinds: ["taxonomy"] # overrules and disables taxonomies at the bottom
 ignoreErrors: ["error-disable-taxonomy"] # overrules and disables taxonomies at the bottom
 
 minify:
@@ -32,6 +32,8 @@ languages:
     title: House of Geeqla
     label:
       text: Geeqla
+      icon: "icon.svg"
+      iconHeight: 30
     homeInfoParams:
       Title: Hey!
       Content: >
@@ -39,7 +41,7 @@ languages:
     profileMode:
       enabled: true
       title: Hey!
-      imageUrl: "/geeqla.png"
+      imageUrl: "geeqla.png"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -54,6 +56,8 @@ languages:
     title: Дом Гикла
     label:
       text: Гикла
+      icon: "icon.svg"
+      iconHeight: 30
     homeInfoParams:
       Title: Привет!
       Content: >
@@ -61,7 +65,7 @@ languages:
     profileMode:
       enabled: true
       title: Привет!
-      imageUrl: "/geeqla.png"
+      imageUrl: "geeqla.png"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -76,6 +80,8 @@ languages:
     title: Das Haus von Geeqla
     label:
       text: Geeqla
+      icon: "icon.svg"
+      iconHeight: 30
     homeInfoParams:
       Title: Hallo!
       Content: >
@@ -83,7 +89,7 @@ languages:
     profileMode:
       enabled: true
       title: Hallo!
-      imageUrl: "/geeqla.png"
+      imageUrl: "geeqla.png"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -98,6 +104,8 @@ languages:
     title: La maison de Geeqla
     label:
       text: Geeqla
+      icon: "icon.svg"
+      iconHeight: 30
     homeInfoParams:
       Title: Salut!
       Content: >
@@ -105,7 +113,7 @@ languages:
     profileMode:
       enabled: true
       title: Salut!
-      imageUrl: "/geeqla.png"
+      imageUrl: "geeqla.png"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
