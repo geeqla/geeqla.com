@@ -135,12 +135,8 @@ params:
       url: "https://www.linkedin.com/in/geeqla"
     - name: keybase
       url: "https://www.keybase.io/geeqla"
-    - name: facebook
-      url: "https://www.facebook.com/geeqla"
     - name: twitter
       url: "https://www.twitter.com/geeqla"
-    - name: telegram
-      url: "https://t.me/geeqla"
     - name: instagram
       url: "https://www.instagram.com/geeqla"
     - name: youtube
