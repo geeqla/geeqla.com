@@ -69,6 +69,8 @@ params:
       url: "https://www.linkedin.com/in/geeqla"
     - name: keybase
       url: "https://www.keybase.io/geeqla"
+    - name: vk
+      url: "https://vk.com/geeqla"
     - name: telegram
       url: "https://t.me/geeqla"
     - name: instagram
