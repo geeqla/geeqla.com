@@ -32,7 +32,6 @@ languages:
     title: House of Geeqla
     label:
       text: Geeqla
-      icon: "icon.svg"
       iconHeight: 30
     homeInfoParams:
       Title: Hey!
@@ -41,7 +40,7 @@ languages:
     profileMode:
       enabled: true
       title: Hey!
-      imageUrl: "geeqla.png"
+      imageUrl: "icon.svg"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -56,7 +55,6 @@ languages:
     title: Das Haus von Geeqla
     label:
       text: Geeqla
-      icon: "icon.svg"
       iconHeight: 30
     homeInfoParams:
       Title: Hallo!
@@ -65,7 +63,7 @@ languages:
     profileMode:
       enabled: true
       title: Hallo!
-      imageUrl: "geeqla.png"
+      imageUrl: "icon.svg"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -80,7 +78,6 @@ languages:
     title: La maison de Geeqla
     label:
       text: Geeqla
-      icon: "icon.svg"
       iconHeight: 30
     homeInfoParams:
       Title: Salut!
@@ -89,7 +86,7 @@ languages:
     profileMode:
       enabled: true
       title: Salut!
-      imageUrl: "geeqla.png"
+      imageUrl: "icon.svg"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -107,7 +104,7 @@ params:
   mirrorSiteLanguageAltTitle: "Русский" # added by Geeqla
   launchYear: 2016 # added by Geeqla
   hideCredits: true # added by Geeqla
-  images: ["website-cover.jpg"]
+  images: ["website-cover.png"]
   socialIcons:
     - name: github
       url: "https://www.github.com/geeqla"
