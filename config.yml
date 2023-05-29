@@ -33,7 +33,6 @@ languages:
     title: Дом Гикла
     label:
       text: Гикла
-      icon: "icon.svg"
       iconHeight: 30
     homeInfoParams:
       Title: Привет!
@@ -42,7 +41,7 @@ languages:
     profileMode:
       enabled: true
       title: Привет!
-      imageUrl: "geeqla.png"
+      imageUrl: "icon.svg"
       imageTitle: Geeqla
       imageWidth: 120
       imageHeight: 120
@@ -61,7 +60,7 @@ params:
   launchYear: 2016 # added by Geeqla
   hideCredits: true # added by Geeqla
   yandexMetrika: 92131351 # added by Geeqla
-  images: ["website-cover.jpg"]
+  images: ["website-cover.png"]
   socialIcons:
     - name: github
       url: "https://www.github.com/geeqla"
