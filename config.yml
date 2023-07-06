@@ -27,7 +27,7 @@ languages:
     languageName: ":gb:"
     languageAltTitle: "English" # added by Geeqla
     weight: 1
-    description: "House of Geeqla on the Internet"
+    description: "House of Geeqla on the Internet."
     author: Geeqla
     title: House of Geeqla
     label:
@@ -50,7 +50,7 @@ languages:
     languageName: ":de:"
     languageAltTitle: "Deutsch" # added by Geeqla
     weight: 2
-    description: "Das Haus von Geeqla im Internet"
+    description: "Das Haus von Geeqla im Internet."
     author: Geeqla
     title: Das Haus von Geeqla
     label:
@@ -73,7 +73,7 @@ languages:
     languageName: ":fr:"
     languageAltTitle: "Française" # added by Geeqla
     weight: 3
-    description: "La maison de Geeqla sur le Web"
+    description: "La maison de Geeqla sur le Web."
     author: Geeqla
     title: La maison de Geeqla
     label:
@@ -115,7 +115,7 @@ params:
     - name: twitter
       url: "https://www.twitter.com/geeqla"
     - name: threads
-      url: "https://www.threads.net/@geeqla"
+      url: "https://www.threads.net/geeqla"
     - name: instagram
       url: "https://www.instagram.com/geeqla"
     - name: youtube
