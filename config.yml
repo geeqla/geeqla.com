@@ -72,6 +72,8 @@ params:
       url: "https://vk.com/geeqla"
     - name: telegram
       url: "https://t.me/geeqla"
+    - name: threads
+      url: "https://www.threads.net/@geeqla"
     - name: instagram
       url: "https://www.instagram.com/geeqla"
     - name: youtube
