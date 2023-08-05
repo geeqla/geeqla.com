@@ -68,14 +68,12 @@ params:
       url: "https://www.linkedin.com/in/geeqla"
     - name: keybase
       url: "https://www.keybase.io/geeqla"
-    - name: vk
-      url: "https://vk.com/geeqla"
+    - name: x
+      url: "https://www.x.com/geeqla_ru"
     - name: telegram
       url: "https://t.me/geeqla"
-    - name: threads
-      url: "https://www.threads.net/geeqla"
-    - name: instagram
-      url: "https://www.instagram.com/geeqla"
+    - name: vk
+      url: "https://vk.com/geeqla"
     - name: youtube
       url: "https://www.youtube.com/geeqla"
   assets:
