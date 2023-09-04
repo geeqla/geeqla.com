@@ -114,10 +114,10 @@ params:
       url: "https://www.keybase.io/geeqla"
     - name: x
       url: "https://www.x.com/geeqla"
-    - name: threads
-      url: "https://www.threads.net/geeqla"
     - name: instagram
       url: "https://www.instagram.com/geeqla"
+    - name: facebook
+      url: "https://www.facebook.com/geeqla"
     - name: youtube
       url: "https://www.youtube.com/geeqla"
   assets:
