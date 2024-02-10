@@ -38,7 +38,7 @@ languages:
       homeInfoParams:
         Title: Hey!
         Content: >
-          My [PGP key](https://geeq.la/@) is 49FF57C32BD36752
+          My [PGP key](https://geeq.la/@) on [Keybase](https://www.keybase.io/geeqla).
       profileMode:
         enabled: true
         title: Hey!
@@ -46,7 +46,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "My **[PGP key](https://geeq.la/@)** is 49FF57C32BD36752"
+        subtitle: "My **[PGP key](https://geeq.la/@)** on [Keybase](https://www.keybase.io/geeqla)."
 
   de:
     languageName: ":de:"
@@ -63,7 +63,7 @@ languages:
       homeInfoParams:
         Title: Hallo!
         Content: >
-          Mein [PGP-Schlüssel](https://geeq.la/@) ist 49FF57C32BD36752
+          Mein [PGP-Schlüssel](https://geeq.la/@) auf [Keybase](https://www.keybase.io/geeqla).
       profileMode:
         enabled: true
         title: Hallo!
@@ -71,7 +71,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "Mein **[PGP-Schlüssel](https://geeq.la/@)** ist 49FF57C32BD36752"
+        subtitle: "Mein **[PGP-Schlüssel](https://geeq.la/@)** auf [Keybase](https://www.keybase.io/geeqla)."
 
   fr:
     languageName: ":fr:"
@@ -88,7 +88,7 @@ languages:
       homeInfoParams:
         Title: Salut!
         Content: >
-          Ma [clé publique PGP](https://geeq.la/@) est 49FF57C32BD36752
+          Ma [clé publique PGP](https://geeq.la/@) sur [Keybase](https://www.keybase.io/geeqla).
       profileMode:
         enabled: true
         title: Salut!
@@ -96,7 +96,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "Ma **[clé publique PGP](https://geeq.la/@)** est 49FF57C32BD36752"
+        subtitle: "Ma **[clé publique PGP](https://geeq.la/@)** sur [Keybase](https://www.keybase.io/geeqla)."
 
 params:
   defaultTheme: auto
@@ -116,8 +116,6 @@ params:
       url: "https://www.github.com/geeqla"
     - name: linkedin
       url: "https://www.linkedin.com/in/geeqla"
-    - name: keybase
-      url: "https://www.keybase.io/geeqla"
     - name: x
       url: "https://www.x.com/geeqla"
     - name: instagram
