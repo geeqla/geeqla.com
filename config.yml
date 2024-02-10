@@ -118,6 +118,8 @@ params:
       url: "https://www.instagram.com/geeqla"
     - name: facebook
       url: "https://www.facebook.com/geeqla"
+    - name: threads
+      url: "https://www.threads.net/geeqla"
     - name: youtube
       url: "https://www.youtube.com/geeqla"
   assets:
