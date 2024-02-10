@@ -26,26 +26,28 @@ minify:
 languages:
   ru:
     languageName: ":ru:"
-    languageAltTitle: "Русский" # added by Geeqla
     weight: 4
-    description: "Дом Гикла в сети Интернет."
     author: Гикла
     title: Дом Гикла
-    label:
-      text: Гикла
-      iconHeight: 30
-    homeInfoParams:
-      Title: Привет!
-      Content: >
-        Мой [ключ PGP](https://geeq.la/@) – 49FF57C32BD36752
-    profileMode:
-      enabled: true
-      title: Привет!
-      imageUrl: "icon.svg"
-      imageTitle: Geeqla
-      imageWidth: 120
-      imageHeight: 120
-      subtitle: "Мой **[ключ PGP](https://geeq.la/@)** – 49FF57C32BD36752"
+    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+    params:
+      languageAltTitle: "Русский" # added by Geeqla
+      description: "Дом Гикла в сети Интернет."
+      label:
+        text: Гикла
+        iconHeight: 30
+      homeInfoParams:
+        Title: Привет!
+        Content: >
+          Мой [ключ PGP](https://geeq.la/@) – 49FF57C32BD36752
+      profileMode:
+        enabled: true
+        title: Привет!
+        imageUrl: "icon.svg"
+        imageTitle: Geeqla
+        imageWidth: 120
+        imageHeight: 120
+        subtitle: "Мой **[ключ PGP](https://geeq.la/@)** – 49FF57C32BD36752"
 
 params:
   defaultTheme: auto
