@@ -39,7 +39,7 @@ languages:
       homeInfoParams:
         Title: Привет!
         Content: >
-          Мой [ключ PGP](https://geeq.la/@) – 49FF57C32BD36752
+          Мой [ключ PGP](https://geeq.la/@) на [Keybase](https://www.keybase.io/geeqla).
       profileMode:
         enabled: true
         title: Привет!
@@ -47,7 +47,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "Мой **[ключ PGP](https://geeq.la/@)** – 49FF57C32BD36752"
+        subtitle: "Мой **[ключ PGP](https://geeq.la/@)** на [Keybase](https://www.keybase.io/geeqla)."
 
 params:
   defaultTheme: auto
@@ -68,8 +68,6 @@ params:
       url: "https://www.github.com/geeqla"
     - name: linkedin
       url: "https://www.linkedin.com/in/geeqla"
-    - name: keybase
-      url: "https://www.keybase.io/geeqla"
     - name: x
       url: "https://www.x.com/geeqla_ru"
     - name: telegram
