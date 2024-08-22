@@ -38,7 +38,7 @@ languages:
       homeInfoParams:
         Title: Hey!
         Content: >
-          My [PGP key](https://geeq.la/@) on [Keybase](https://www.keybase.io/geeqla).
+          My [PGP key](https://geeq.la/@).
       profileMode:
         enabled: true
         title: Hey!
@@ -46,7 +46,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "My **[PGP key](https://geeq.la/@)** on [Keybase](https://www.keybase.io/geeqla)."
+        subtitle: "My **[PGP key](https://geeq.la/@)**."
 
   de:
     languageName: ":de:"
@@ -63,7 +63,7 @@ languages:
       homeInfoParams:
         Title: Hallo!
         Content: >
-          Mein [PGP-Schlüssel](https://geeq.la/@) auf [Keybase](https://www.keybase.io/geeqla).
+          Mein [PGP-Schlüssel](https://geeq.la/@).
       profileMode:
         enabled: true
         title: Hallo!
@@ -71,7 +71,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "Mein **[PGP-Schlüssel](https://geeq.la/@)** auf [Keybase](https://www.keybase.io/geeqla)."
+        subtitle: "Mein **[PGP-Schlüssel](https://geeq.la/@)**."
 
   fr:
     languageName: ":fr:"
@@ -88,7 +88,7 @@ languages:
       homeInfoParams:
         Title: Salut!
         Content: >
-          Ma [clé publique PGP](https://geeq.la/@) sur [Keybase](https://www.keybase.io/geeqla).
+          Ma [clé publique PGP](https://geeq.la/@).
       profileMode:
         enabled: true
         title: Salut!
@@ -96,7 +96,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "Ma **[clé publique PGP](https://geeq.la/@)** sur [Keybase](https://www.keybase.io/geeqla)."
+        subtitle: "Ma **[clé publique PGP](https://geeq.la/@)**."
 
 params:
   defaultTheme: auto
@@ -116,6 +116,8 @@ params:
       url: "https://www.github.com/geeqla"
     - name: linkedin
       url: "https://www.linkedin.com/in/geeqla"
+    - name: keybase
+      url: "https://keybase.io/geeqla"
     - name: x
       url: "https://www.x.com/geeqla"
     - name: mastodon
