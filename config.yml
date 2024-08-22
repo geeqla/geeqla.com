@@ -73,7 +73,7 @@ params:
     - name: x
       url: "https://www.x.com/geeqla_ru"
     - name: mastodon
-      url: "https://mastodon.social/@geeqla"
+      url: "https://mas.to/@geeqla"
     - name: telegram
       url: "https://t.me/geeqla"
     - name: vk
