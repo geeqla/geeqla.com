@@ -60,7 +60,6 @@ params:
   mirrorSiteLanguageName: ":gb:" # added by Geeqla
   mirrorSiteLanguageAltTitle: "English" # added by Geeqla
   launchYear: 2016 # added by Geeqla
-  hideCredits: true # added by Geeqla
   yandexMetrika: 92131351 # added by Geeqla
   images: ["website-cover.png"]
   socialIcons:
