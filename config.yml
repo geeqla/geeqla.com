@@ -109,7 +109,6 @@ params:
   mirrorSiteLanguageName: ":ru:" # added by Geeqla
   mirrorSiteLanguageAltTitle: "Русский" # added by Geeqla
   launchYear: 2016 # added by Geeqla
-  hideCredits: true # added by Geeqla
   images: ["website-cover.png"]
   socialIcons:
     - name: github
