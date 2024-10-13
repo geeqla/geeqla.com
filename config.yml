@@ -70,10 +70,6 @@ params:
       url: "https://www.linkedin.com/in/geeqla"
     - name: keybase
       url: "https://keybase.io/geeqla"
-    - name: x
-      url: "https://www.x.com/geeqla_ru"
-    - name: dzen
-      url: "https://dzen.ru/geeqla"
     - name: telegram
       url: "https://t.me/geeqla"
     - name: vk
