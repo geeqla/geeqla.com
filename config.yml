@@ -120,8 +120,6 @@ params:
       url: "https://keybase.io/geeqla"
     - name: x
       url: "https://www.x.com/geeqla"
-    - name: mastodon
-      url: "https://mastodon.social/@geeqla"
     - name: instagram
       url: "https://www.instagram.com/geeqla"
     - name: facebook
